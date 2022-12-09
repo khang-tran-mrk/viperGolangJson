@@ -1,0 +1,11 @@
+{
+  "server": {
+    "host": "serverhost",
+    "port": "serverport"
+  },
+  "database": {
+    "host": "localhost",
+    "dbUserName": "testUsername",
+    "dbPass": "testPass"
+  }
+}
